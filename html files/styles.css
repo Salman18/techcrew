@@ -1,0 +1,9 @@
+.jumbotron {
+	margin-bottom: 50px;
+	margin-top: 50px;
+	text-align: center;
+}
+
+h1, h3 {
+	font-family: 'Ravi Prakash', cursive;
+}
